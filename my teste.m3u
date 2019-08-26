@@ -1,0 +1,484 @@
+#EXTM3U
+
+#############-INFANTIL-#################
+
+#EXTINF:-1, DISNEY JR HD
+http://c3170-gbbrslbps-
+
+sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np
+
+;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+ 
+#EXTINF:-1, DISNEY XD HD
+http://c3170-gbbrslbps-
+
+sambatech.akamaized.net/live/3170,8784,7f7978dabb948939a8a5b1b171ef599c;base64np
+
+;cyzcx3V5SZ4JJwc!/amlst:cywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/animetv.png" group-
+
+title="INFANTIL", ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:0 tvg-
+
+logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94Kt
+
+Wc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="INFANTIL", GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-
+
+yO8_nM3g3Gg/XNDGwAZmyHI/AAAAAAAAGs0/IG5xgSkT3v4ClGttboTm96-IE-
+
+_1sToQQCK4BGAYYCw/s320/KURIAKOS%2BKIDS.png" group-title="INFANTIL", KURIAKOS 
+
+KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", NBR
+http://ebctvnbr-
+
+rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/chunklist_b544768.m3
+
+u8
+
+################################################################################
+
+###
+
+
+#############-SBT-#################
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-
+
+logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" 
+
+group-title="CANAIS ABERTOS",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1,SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+
+#EXTINF:-1,SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1, SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-
+
+logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" 
+
+group-title="CANAIS ABERTOS",SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u
+
+8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-
+
+logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" 
+
+group-title="CANAIS ABERTOS",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+################################################################################
+
+###
+
+
+#############-TVCULTURA-#################
+
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/4DOaSQC.png" 
+
+group-title="CANAIS ABERTOS", TV CULTURA HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
+
+#EXTINF:-1,TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+################################################################################
+
+###
+
+
+#############_RECORD-#################
+
+#EXTINF:-1 tvg-id="RecordSD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-
+
+title="CANAIS ABERTOS", RECORD SP HD
+http://c3170-gbbrslbps-
+
+sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bba
+
+se64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+
+#EXTINF:0 tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.pn
+
+g/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", TV RECORD (AM)
+https://slbps-
+
+sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bba
+
+se64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?
+
+sts=st=1557102741~exp=1557109341~acl=/*~hmac=7acb1281c68cd011d9ac192673fb62d8cc6
+
+571e547aaf3de0b5b60f6bfa39dbf
+
+#EXTINF:-1, RECORD SP HD
+http://c3170-gbbrslbps-
+
+sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bba
+
+se64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+
+#EXTINF:-1, RECORD NEWS HD
+http://c3170-gbbrslbps-
+
+sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e
+
+%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst
+
+%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV **" tvg-
+
+logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS 
+
+ABERTOS",Record SD
+https://c3170-gbbrslbps-
+
+sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bba
+
+se64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?
+
+sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b
+
+2db93770b64077854f7374e5938e3
+
+################################################################################
+
+####
+
+#############-BAND-#################
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-
+
+logo-tv-10.png" group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", Band SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ChannelsON
+
+
+################################################################################
+
+####
+
+
+#############-CRISTÃ-#################
+
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-
+
+eNLDK5O1Nbs/TbxYOimwaPI/AAAAAAAAAZk/aR5CYVQlxgo/s1600/LOGO.jpg" group-
+
+title="FILMES/SERIES", CINE GOSPEL 
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", Cine Gospel
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/148n9l1.jpg",TV GIDEOES
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunkli
+
+st_w93290010.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV AD Belem
+http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?
+
+ChannelsON
+
+#EXTINF:0 group-title="CANAIS BRASILEIROS", TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-
+
+logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.pn
+
+g" group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?
+
+ChannelsON
+
+#EXTINF:0 group-title="CANAIS BRASILEIROS", REDE GOSPEL
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV EVANGELIZAR
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?ChannelsON
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA",  Rede Vida
+https://cvd1.cds.ebtcvd.net/live-
+
+redevida/smil:redevida.smil/chunklist_b1296000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV Missão
+http://wse7.player.tv.br:1935/tvmissao/mp4:tvmissao/chunklist_w2064616456.m3u8?
+
+ChannelsON
+
+################################################################################
+
+###
+
+
+#############-TVCAMARA-#################
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/qmTaflk.png" group-title="CANAIS 
+
+BRASILEIROS", TV CAMARA 1
+http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/qmTaflk.png" group-title="CANAIS 
+
+BRASILEIROS", TV CAMARA 2
+http://stream2.camara.gov.br:8134/tv2/manifest.m3u8
+
+################################################################################
+
+###
+
+#############-REDE-#################
+
+#EXTINF:0 group-title="CANAIS BRASILEIROS", REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-
+
+logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-
+
+content/uploads/2017/11/redetv-logo-1.png" group-title="TV AO VIVO" pltv-
+
+subgroup="TV ABERTA", RedeTV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w771280515.m3u8?ChannelsON
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-
+
+content/uploads/2017/11/redetv-logo-1.png" group-title="TV AO VIVO" pltv-
+
+subgroup="TV ABERTA", RedeTV! RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8?ChannelsON
+
+#EXTINF:0 group-title="CANAIS BRASILEIROS", REDE SUPER
+http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1,REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1,REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mhumyod.png" group-title="TV AO VIVO" 
+
+pltv-subgroup="TV ABERTA", Rede RC BA
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV Cara da Bahia BA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w1224721706.m3u8
+
+
+################################################################################
+
+####
+
+#############-OUTROS-#################
+
+#EXTINF:0 group-title="CANAIS BRASILEIROS", GV NEWS
+http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8
+
+#EXTINF:0 group-title="CANAIS BRASILEIROS", TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", CATVE PR
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
+
+ChannelsON
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV JSID
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV Summer
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", RAI MOVIES
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", CARIOCA NET
+http://hd4.com.br:1935/tvcarioca/tvcarioca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV UP
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7ObVfW.png" group-title="TV AO VIVO" 
+
+pltv-subgroup="TV ABERTA", MasterTV 
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV Boa Esperança
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV Maceió AL
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV Ambiental ES
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV Diário do Sertão PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV ASSEMBLEIA 
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_
+
+w591050354.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", LivreTV RN
+https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV A Plateia RS
+http://srv-rs1.sisdera.com/hls/tvap_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV FAAP SP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://jovempan.uol.com.br/wp-
+
+content/themes/jovempan/assets/build/images/logo-jovempan-black.png?v2" group-
+
+title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV JOVEM PAN
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/chunklist_w1538534442.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TV RADIO JORNAL
+http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-
+
+web.sdp/chunklist_w653587283.m3u8
+
+
+################################################################################
+
+####
+
+
+#############-ESPORTE-#################
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/H4X2xiN.png" group-title="CANAIS DE 
+
+ESPORTES", TV ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+################################################################################
+
+#####
+
+#############-TVEXTRANGEIRA-#################
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", HISTORY LAB
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", DW NEWS
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", TELE BARN
+http://klive-a.akamaihd.net/dc-
+
+1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" 
+
+group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-
+
+p.m3u8?sd=10&rebase=on
